@@ -229,5 +229,5 @@ node_modules/
 typed-router.d.ts
 components.d.ts
 package-lock.json
-Dockerfile-dev-local.yml
-Dockerfile-run-local.yml
+Dockerfile-dev.yml
+Dockerfile-run.yml
